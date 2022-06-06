@@ -1,0 +1,6 @@
+Preferences:
+    Favourite Film: The Matrix
+    Favourite Series: The Big Bang Theory
+    Favourite Food: strawberries, grilled meat, eclair
+    Favourite Season: summer
+    Dream Country: Spain
