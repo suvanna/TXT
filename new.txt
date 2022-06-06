@@ -1,0 +1,13 @@
+First Name: Анна
+Parent Name: Юрьевна
+Last Name: Суворова
+Age: 38
+Number of Pets: 1
+Future Salary": $2000
+
+First Name: Анна
+Parent Name: Юрьевна
+Last Name: Суворова
+Age: 38
+Number of Pets: 1
+Future Salary": $2000
